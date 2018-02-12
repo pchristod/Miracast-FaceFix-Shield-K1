@@ -1,0 +1,7 @@
+id=MiracastFaceFix
+name=Miracast & FaceFix Shield Tablet
+version=v09.02.2018
+versionCode=09022018
+author=D.m.x
+description=Will attempt to enable Miracast and fix the FC when selecting Face Unlock on the K1 5.2 Rom
+minMagisk=1500
